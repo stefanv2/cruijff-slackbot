@@ -28,6 +28,16 @@ module.exports = [
   "Italië kan je niet verslaan, maar je kunt er wel van winnen.",
   "Ik geloof niet in toeval. Toeval is logisch.",
   "In zekere zin ben ik waarschijnlijk onsterfelijk.",
-  "Wat is snelheid? Dat is vaak verwarring."
+  "Wat is snelheid? Dat is vaak verwarring.",
+  "Als je vooruit wilt denken, moet je eerst stilstaan.",
+  "De bal gaat sneller dan de benen, behalve als je te laat bent.",
+  "Als je het simpel houdt, hoef je minder fouten te verbeteren.",
+  "Een goede speler weet waar hij niet moet staan.",
+  "Je hoeft het niet te begrijpen om het goed te doen, maar het helpt wel.",
+  "Pas als je zonder nadenken goed speelt, heb je er goed over nagedacht.",
+  "Rust is snelheid in vermomming.",
+  "Een team wint niet omdat het beter is, maar omdat het beter samen is.",
+  "Iedereen kan de juiste keuze maken, maar niet iedereen maakt ‘m op tijd.",
+  "Als je de bal niet hebt, kun je niet verliezen — maar je wint er ook niks mee."
 ];
 
