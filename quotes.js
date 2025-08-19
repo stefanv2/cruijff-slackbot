@@ -39,6 +39,7 @@ module.exports = [
   "Een team wint niet omdat het beter is, maar omdat het beter samen is.",
   "Iedereen kan de juiste keuze maken, maar niet iedereen maakt ‘m op tijd.",
   "Als je de bal niet hebt, kun je niet verliezen — maar je wint er ook niks mee.",
-  "Alleen als je wint heb je vrienden."
+  "Alleen als je wint heb je vrienden.",
+  "Door de bomen de bossen niet meer zien."
 ];
 
