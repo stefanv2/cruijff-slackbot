@@ -41,5 +41,7 @@ module.exports = [
   "Als je de bal niet hebt, kun je niet verliezen — maar je wint er ook niks mee.",
   "Alleen als je wint heb je vrienden.",
   "Door de bomen de bossen niet meer zien."
+  "De bal is rond, maar de wedstrijd is vierkant.",
+  "Waarom de bal rond is? Omdat hij anders niet zou rollen.",
 ];
 
