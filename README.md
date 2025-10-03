@@ -11,7 +11,7 @@
 
 Een simpele, Docker-gebaseerde Slack-bot die elke week een legendarische uitspraak van Johan Cruijff post in een Slack-kanaal. Ideaal voor wat voetbalwijsheid, humor of inspiratie op de werkvloer.
 
-> "Je gaat het pas zien als je het doorhebt." – Johan Cruijff
+> "Je gaat het pas zien als je het doorhebt." – Johan Cruijff.
 
 ---
 
