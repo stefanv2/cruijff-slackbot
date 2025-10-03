@@ -43,5 +43,6 @@ module.exports = [
   "Door de bomen de bossen niet meer zien."
   "De bal is rond, maar de wedstrijd is vierkant.",
   "Waarom de bal rond is? Omdat hij anders niet zou rollen.",
+  "Een expert is iemand die alle fouten heeft gemaakt die je maar kunt maken binnen een heel smal vakgebied. – Niels Bohr" 
 ];
 
